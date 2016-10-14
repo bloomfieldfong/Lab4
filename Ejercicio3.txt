@@ -1,0 +1,5 @@
+Ejercicio 3:
+1)	Crear clase llamada AlarmaEmergencia que dependa de la clase Alarma.
+2)	Crear un método llamado m1 que imprima “Emergencia 1”.
+3)	Crear un método llamado m2 que nos llame el método m1 y m2 de la clase Alarma para que nos imprima “Alarma 1/ timbre 1”.
+Crear un método ToString que nos llame el método toString de la clase Alarma para que se imprima “Emergencia 1 Ring Ring Ring Ring

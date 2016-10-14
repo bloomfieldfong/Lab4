@@ -13,4 +13,8 @@ public class General extends Militar {
     public void planificaEstrategia() {
         System.out.println("Llevaremos tres divisiones a la frontera!");
     }
+    
+    public String toString(){
+    	return "Los Generales tienen: "+getDiasVacaciones()+", y su formulario es de color: "+getFormularioVacaciones();
+    }
 }

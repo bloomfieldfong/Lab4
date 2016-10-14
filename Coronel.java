@@ -9,4 +9,8 @@ public class Coronel extends Teniente {
     public void ejecutaOrdenManiobra() {
         System.out.println("Presenten Armas!");
     }
+    
+    public String toString(){
+    	return "El salario del coronel es: "+getSalario();
+    }
 }
