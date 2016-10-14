@@ -3,10 +3,10 @@
 
 public class AlarmaMain {
 	public static void main(String[] args) {
-Alarma miReloj = new Alarma();
+/*Alarma miReloj = new Alarma();
 System.out.println(miReloj);
 miReloj.m1();
-miRelojm2();
+miRelojm2();*/
 
 	}
 
