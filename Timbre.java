@@ -6,7 +6,7 @@ public class Timbre {
 	public void m2() {
 	}
 
-	public String to String() {
+	public String toString() {
 		return "Ring…Ring";
 	}
 }
