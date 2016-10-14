@@ -5,14 +5,23 @@
  */
 public class Soldado extends Militar{
 	
+	/**
+	 * @return horas
+	 */
 	public int horas(){
 		return super.getHoras() *2;
 	}
 	
+	/**
+	 * @return salario
+	 */
 	public double salario(){
 		return super.getSalario() - 10000;
 	}
 	
+	/**
+	 * @return vacacioness
+	 */
 	public float vacaciones(){
 		return super.getDiasVacaciones() / 2;
 	}
